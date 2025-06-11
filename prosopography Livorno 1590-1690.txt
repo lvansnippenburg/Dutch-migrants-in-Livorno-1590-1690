@@ -1,0 +1,1198 @@
+category	id	Lastname 	Firstname	patronymic, toponymic	Gender	Profession	Origin	First seen	Last seen	MoCO-A since	Religion	YOB	Born in	YOD	Died in	Remark	Literature	Archives									
+fiamminghi	001	-	Anna	di Arrigo, di Anversa	F		Flemish/Dutch	1611	1613									ADL, Battesimi 3, 8v, 10v, 20r, 23r, 25r, 27v, 28v, 29r, 29v (2x), 30v (3x), 31r, 62r, 68v, 69r, 77r. 									
+fiamminghi	002	-	Egbert	Jansz.		merchant	Flemish/Dutch	1628	1630								"Engels 1997, p133 p181, 145; Engels 1993, p30;"										
+fiamminghi	003	-	Egberto 	di Giovanni		sugar	Dutch	1629		1628								ASL, 2602-2 Atti civili- suppliche, 430r.									
+fiamminghi	004	-	Filippo (Fra)			chaplain	Flemish, Brussels	1620	1630		Catholic		Brussels				Engels, 1997, p. 131.	"ADL, matrimoni 1 135v; battesimi 5, 93r."									
+fiamminghi	005	-	Francesco (Fra)			chaplain	Flemish/Dutch	1622			Catholic						Kieckens, 1993, p. 36.	ASL, 3076 processo contro il Console d’Olanda, 470v (XXIV).									
+fiamminghi	006	-	Guasparri (Fra)			chaplain	Flemish/Dutch	1637			Catholic						Engels, 2024, p. 34.	ADL, matrimoni 2, 143r.									
+fiamminghi	007	-	Isabella	di David	F	cobbler (or the wife of a deceased cobbler)	Flemish/Dutch	1649								Possibly married to David Hendricks	Kieckens, 1993, p. 58.	ASL, catasto 201. c274.									
+fiamminghi	008	-	Nicolo	di Nicodemi			Flemish	1639					Bruges			Married Gimenia di Filippo Belandi di Livorno.		ADL, Matrimoni 2, 174r									
+fiamminghi	009	-	Pietro 	di Alberto			Flemish/Dutch	1651										ASL, 204 Arroti di decime, c290.									
+fiamminghi	010	Ablin (Ablein, Abein)	Jacomo (Giacomo)			merchant	Flemish/Dutch	1643	1658	1643							"Kieckens, 1993, p. 80.
+Panizzutt, 2024, p. 376."	ASL, 184 Atti Civili, c164.									
+fiamminghi	011	Alchi, van	Jodocho (Fra)			chaplain	Flemish	1620	1630		Catholic						Engels, 1997, p. 131.	ASF, 44 Società mercantile Olandese, 270.									
+fiamminghi	012	Ans	Caterina		F		Flemish/Dutch	1649										ASL, 200 Decima, c32.									
+fiamminghi	013	Beaulieu	Jacob (Jacobus, Jacques)			merchant	Flemish/Dutch	1605	1620					1620	Livorno		"Brulez, 1965, p. 462. 
+Engels, 1993, p. 27;
+Engels, 1997, p. 138. "	ASL, 2602 Atti civili- suppliche, 444r.									
+fiamminghi	014	Beekman	Abraham			clerk	Dutch		1713					1713	Livorno		Hoogewerff, 1927, p. 180.										
+fiamminghi	015	Berck	Cornelis (cornelio)			merchant, consul missus	Dutch, Amsterdam	1622	1633	1622			Amsterdam			Brother of Reinier Berck, son of Johannes Berck, Dutch Ambassador in Venice.	"Agterhuis, 2013, p. 35. 
+Engels,1993, p. 29.
+Engels, 1997, p. 133, 143. 
+Hoogewerff, 1927, p. 612.
+Schutte, 1976, p. 446."	ASL, 2603-1, 45r, 98r.									
+fiamminghi	016	Berck	Reinier				Dutch	1622	1631					1631	Livorno	Brother of Cornelis Berck, son of Johannes Berck, Dutch Ambassador in Venice.	"Engels, 1993, p. 29;"										
+fiamminghi	017	Bergh, ten (ten Borch)	Rutger			shipowner, merchant	Flemish/Dutch	1650	1660		Protestant						"Engels, 2011, p. 33. 
+Engels, 2024 (NL), p. 139."										
+fiamminghi	018	Bevers	Daniel			sugar	Flemish/Dutch	1626	1635					1635	Livorno		"Brege, 2021, p. 98. 
+Engels, 1997, p. 181, 144."	"ADL, Morti 2, c189.
+ASL, 2603-1, 209r."									
+fiamminghi	019	Biervliet	Antonius			merchant	Flemish/Dutch	1622								Father or brother of Walter Biervliet.	Engels, 1997, p. 133, 142, 181.										
+fiamminghi	020	Biervliet	unknown, wife of Walter		F		Flemish/Dutch	1622									Engels, 1997, p. 142.										
+fiamminghi	021	Biervliet (Beirvliet)	Walter (Gualtieri)			merchant	Flemish/Dutch	1622		1622							Engels, 1997, p. 133, 142, 181.										
+fiamminghi	022	Bleyswick, van	Andries (adrien, Adriaan)			sugar	Flemish/Dutch	1631	1646	1631							"Engels, 1997, p. 133.
+Hoogewerff, 1927, p. 161.
+Kieckens, 1993, p. 57."	"ASL, dogana 4. c53-54, 155.
+ASL, 2603-2, 1331r."									
+fiamminghi	023	Bleyswick, van	Johannes (Giovanni)				Flemish/Dutch	1646	1646									ASL, 2603-2, 575r.									
+fiamminghi	024																										
+fiamminghi	025	Bontekoe (Vaccamacchiata)	Willem 	Gerardsz.		captain	Dutch	1626								Married to Anna Ruella.	"Engels, 1993, p. 31. 
+Engels, 1997, p. 175."										
+fiamminghi	026	Boos				priest	Flemish		1663		Catholic							ASL, 3076 processo contro il Console d’Olanda, XI p14									
+fiamminghi	027	Bordes, de	Anthonie (Antonio)			merchant	Flemish/Dutch	1646	1648	1648							Hoogewerff, 1927, p. 161.										
+fiamminghi	028																										
+fiamminghi	029	Bostel, van	Bastiaan			merchant	Flemish/Dutch	1665	1684								Hoogewerff 1927, p173										
+fiamminghi	030	Brassert (Brassart	Everardus (Eduardo, Everhardo, Eberhard)			merchant	Dutch, (Cologne)	1665	1699	1665			Cologne				"Hoogewerff, 1927, p. 173. 
+Sonetti, 2023, p. 59.
+Vivoli, 1842, p. 72. "										
+fiamminghi	031																										
+fiamminghi	032	Broch (then Borg)	George (Giorgio, Ruggiero)				Dutch	1662?	1692	1662?							Vivoli, 1842 IV, p. 72.										
+fiamminghi	033	Broecke, van den 	Pieter			merchant	Dutch	1624	1624					1624	Livorno (Chiesa della Madonna)	Brother of Bernard van den Broecke	Engles, 1997, p.158.										
+fiamminghi	034	Broecke, van den (Bruch, Broch, de Broegh, de Brook)	Bernard (Bernardus Timani, Bernardus, Bernardo			merchant	Dutch, Steenwijk	1616	1634	1622		1595	Steenwijk	1634	Livorno (Chiesa Madonna del Carmine)	Brother of Pieter van den Broecke	"Calafat, 2022, p. 539. 
+Engels, 1997, p133, 218."	"ADL, Matrimoni 2, c20. 
+ADL, Morti 2, 143r.
+ASL, 2603-1, 98r.
+ASL, 3076 processo contro il Console d’Olanda, 80r;"									
+fiamminghi	035	Broegh (Broeg)	Frederik (Fredero, Frederigo)			merchant, consul	Dutch, Amsterdam	1682	1732	1682		1659	Amsterdam	1732.05	Livorno		"Hoogewerff, 1927, p. 173.
+Schutte, 1976, p. 448."										
+fiamminghi	036	Busch, van de 	Theodoor (Teodoro)	di Teodoro			Flemish		1661		Catholic	1618		1661	Livorno		Kieckens, 1993, p. 70.	ADL, Morti 4, 186v.									
+fiamminghi	037	Calckberner	Jacob (Giacomo)			merchant, consul	Dutch, (Aachen)	1677	1706	1674		1642	Aken	1706.03.01	Livorno		"Hoogewerff, 1927, p. 172. 
+Israel, 1986, p. 106.
+Schutte, 1976, p. 447."										
+fiamminghi	038	Calckberner	Eva		F		Dutch		1733			1658		1733	Livorno	Wide of Daniël van der Hout	Hoogewerff, 1927, p. 181. 										
+fiamminghi	039	Canen, van der (Vandercanen)	Antonius (Antonio Daniello)			cobbler	Flemish/Dutch	1656									Kieckens, 1993, p. 58.	ASL, Catasto 206. c. 66									
+fiamminghi	040	Capelle, van 	Pieter			merchant	Dutch, Amsterdam	1620	1635	1628		1606	Amsterdam				"Calafat, 2022, p. 539. 
+Engels, 1997, p. 159, 161.
+Engels, 2024, p. 38."										
+fiamminghi	041	Cappelen	Abraham			merchant	Flemish/Dutch	1672	1689	1672							Hoogewerff, 1927, p. 173.										
+fiamminghi	042	Cappelen, van der	Benedetta		F		Dutch	1646								Wife of Jacobus van der Cappelen		204 Arroti di decime c366									
+fiamminghi	043	Cappelen, van der	Maria		F		Dutch	1646								Daughter of Jacobus and Benedetta van der Cappelen.		204 Arroti di decime c366									
+fiamminghi	044	Cappelen, van der	Giulia		F		Dutch	1650								Daughter of Jacobus and Benedetta van der Cappelen.		204 Arroti di decime c366									
+fiamminghi	045	Cappelen, van der	Lisabetta		F		Dutch	1650								Daughter of Jacobus and Benedetta van der Cappelen.		204 Arroti di decime c366									
+fiamminghi	046	Cappelen, van der (van Capelle)	Jacobus (Giacomo, Jacopo)			merchant, consul	Dutch	1646	1666	1655						Husband of Benedetta van der Cappelen, had 4 daughters.	Schutte, 1976, p. 447.	204 Arroti di decime c366									
+fiamminghi	047	Cappellen	Giovanni				Flemish/Dutch	1640	1666								Vivoli, 1842, IV, p. 72.	"30 (was 74) Decima Estimo nuovo, 310v;"									
+fiamminghi	048	Cnuyten (Cuysten)	Herman (Ermanno)				Flemish/Dutch	1642		1642								"135 Lettere e negozi della comunità 1743r;"									
+fiamminghi	049	Cocquiel, de	Pieter			merchant	Flemish										"Engels, 1993, p. 30.
+Engels, 1997, p. 181. "										
+fiamminghi	050	Coffart	Philips (Filippo)				Flemish/Dutch	1651		1651																	
+fiamminghi	051	Colijns (Colyns)	Philips (Filippo)			merchant	Flemish/Dutch	1642	1650	1642							Kieckens, 2024, p. 126.										
+fiamminghi	052	Colyer	Maria		F		Dutch	1668			Protestant			1720/5		Wife of Abraham de la Fontaine. Married in Livorno in 1668.	"Groot, 2010, p. 37.
+Schutte, 1976, p. 447."										
+fiamminghi	053	Coninck, de	Hendrick (Henrico, Hendrich)				Flemish/Dutch	1647		1647																	
+fiamminghi	054	Constant	Lambert (Lamberto)	di Giovanni, di Liegi		engineer	Dutch, Liege	1622	1647	1642	Lutheran		Liege	1647	Livorno	"Also mentioned as ""Constant Lamberts""."	"Engels, 1997, p.131.
+Engels, 2024, p. 32.
+Hoogewerff, 1927, p. 168.
+Vivoli, 1842, p. 73. "	ASL, catasto 85 - giustificazione - c. 200									
+fiamminghi	055	Constant	Jenin (Ienin)				Dutch									Brother of Lambert Constant.	Dinelli, 2006, p. 199.										
+fiamminghi	056	Cooste	Faj				Flemish/Dutch	1646		1646																	
+fiamminghi	057	Dael, van (Vandal, van Dalen, van Daelhem, van Daell)	Johan (Giovanni)			consul missus	Dutch, Utrecht	1611	1622		Catholic		Utrecht	1632.06.17	Utrecht		"Biagi, 1977, p. 363.
+Engels, 1993, p. 32. 
+Heeringa 1966, p51.
+Schutte, 1976, 447.
+"	"ASL, 2602 Atti civili- suppliche 1595-1629, 479r. 
+ADL, registro baptismi 1611-1627 (1,2), 59r. 
+ADL, registro baptismi 1611-1627 (1,2) 59r. brieven Lus (1611.07.30)."									
+fiamminghi	058	Danijs	Isaac (Isacco)			merchant	Flemish/Dutch											"135 Lettere e negozi della comunità 1743r;"									
+fiamminghi	059	Delespaul	Antonius (Antonio)				Flemish/Dutch	1673		1673																	
+fiamminghi	060	Dieman	Caterina		F		Flemish/Dutch	1637								"Daughter of Giovanni Dieman; Leaves Livorno after her father's death and continued her life in Genoa."		Dogana 2 c185									
+fiamminghi	061	Dieman (di Diman)	Giovanni				Flemish/Dutch	1603									Kieckens, 1993, p. 79.	"ASL, comunità 1684. 12v; ASL, comunità 134, 348r -> niet opvraagbaar ivm schimmel;"									
+fiamminghi	062	Dijlman (Dijtman, Ditman)	Frederik (Federigo)			merchant	Flemish/Dutch	1667		1667							"Hoogewerff, 1927, p. 173. 
+Vivoli, 1842, p. 72."										
+fiamminghi	063	Dompselaer	Arnoldus			merchant	Flemish/Dutch	1677	1684	1677							Hoogewerff, 1927, p. 173.										
+fiamminghi	064	Dopper	Jan			captain	Dutch										"Engels, 1993, p. 31. 
+Engels, 1997, p. 175."										
+fiamminghi	065	Duquesnoy	François (Francesco)			sculptor	Flemish, Brussels	1643	1643		Catholic	1597	Brussels	1643	Livorno		Papi, 2002, p. 288.										
+fiamminghi	066	Edzardi	Statio				Dutch/Flemish	1660		1660							Castignoli, 1979, p. 174.										
+fiamminghi	067	Egmont	Jacob (Giacomo)			merchant	Dutch/Flemish	1668	1679	1668							Hoogewerff, 1927, p. 173.										
+fiamminghi	068	Eighels (Sighels)	Jan (Giovanni)			merchant	Flemish/Dutch	1628		1628							"Engels, 1993, p. 29.
+Engels, 1997, p. 133,  181. "										
+fiamminghi	069	Eijch, van	Cornelis (Cornelio)			merchant	Dutch	1615									Van Gelder, 2009, p. 116.										
+fiamminghi	070	Ens, van (Vanins)	Bernard  (Bernardo)	Jansz.		sugar	Dutch, Hoorn	1622	1626				Hoorn	1626			"Brege, 2021, p. 98. 
+Engels, 1993, p. 26. 
+Engels, 1997, p. 143."	ASL, 2603-1, 209r.									
+fiamminghi	071	Esten, van	Jacob			banker	Flemish/Dutch	1650									"Kieckens, 2024, p. 126. 
+Vivoli, 1842, III, p.  211."										
+fiamminghi	072	Eugler	Johannes (Giovanni Simone)				Flemish/Dutch	1651		1651							Castignoli, 1979, p. 174.										
+fiamminghi	073	Evers	Johannes (Giovanni)				Flemish/Dutch	1643		1643							Castignoli, 1979, p. 174.										
+fiamminghi	074	Felthaus (Faltaus)	David (Davit)			merchant	Flemish/Dutch German	1609									Engels, 1993, p. 32.	"ASL, 2602. Atti civili- suppliche 1595-1629 373r; ASL, 2602. Atti civili- suppliche 1595-1629 444r"									
+fiamminghi	075	Fiammingho	George (Giorgio)	di Giovanni		merchant	Flemish/Dutch	1611								It is possible this is the same person as Joris Jansen. 	Engels, 1997, p. 155.	"ASF, Mediceo del Prinicipato No. 2079, f.379r; Sanità Negozi no.134, f.1174; ASF, Notarile Moderno Protocolli no. 9444, f.5r; ASF, società mercantile Olandese no.37, f.1r;"									
+fiamminghi	076	Fontaine, de la	Abraham (Abram)			consul missus	Flemish/Dutch	1666	1680	1666	Protestant			1688	Constantinopel		"Groot, 2010, p. 37.
+Hoogewerff, 1927, p. 171.
+Schutte, 1976, p. 448; "	"ASL, 3076 processo contro il Console d’Olanda, XXII;"									
+fiamminghi	077	Gallaccini	Anton Domenico				Flemish/Dutch	1676		1676							Castignoli, 1979, p. 174.										
+fiamminghi	078	Gardini	Nicolo (Niecolo)				Dutch, Amsterdam	1637	1646				Amsterdam					Dogana 2 c179									
+fiamminghi	079	Gardini (Gardinj)	Giovanni Battista			shopowner	Flemish/Dutch	1648	1653	1648							Kieckens, 1993, p. 57. 	"ASL, 200 catasto, c85.
+ASL, 204 catasto,  c431.
+ASL, 155 governatore ed auditore, c1006.
+ASL, 2603-2, 575v."									
+fiamminghi	080	Gentile	Guasparre			Innkeeper	Flemish	1610									Vivoli, 1842, IV, p. 34, 113.										
+fiamminghi	081	Gequier	Giacomo				Flemish/Dutch	1658		1658							Castignoli, 1979, p. 174.										
+fiamminghi	082	Gerards (Gerard, Gerardi, Gherardi)	Arrigo (Enrico, Hendrik)				Flemish/Dutch	1650	1666	1651							"Kieckens, 1993, p. 58. 
+Kieckens 2024, p128.
+Vivoli, 1842, IV, p. 72, 517. "										
+fiamminghi	083	Gilles	Carlo			merchant	Flemish/Dutch	1655	1665	1655							"Hoogewerff, 1927, p. 173. 
+Kieckens, 1993, p. 66.
+ Vivoli, 1842, IV, p. 74, 517."	ASF. mediceo 1804. c. 36.									
+fiamminghi	084	Giovanni 	Egbert	Jansz.		sugar	Flemish/Dutch	1628	1651	1628							Kieckens, 1993, p. 57.	"ASL, dogana 4. c. 53-54, 155; ASL, 2602-2 430r;"									
+fiamminghi	085	Giusto, di	Nicolo			chaplain	Flemish, Antwerp	1620	1630		Catholic		Antwerp				Engels, 1997, p. 131.	ASF, Società mercantile Olandese 29 f.37v									
+fiamminghi	086	Gontier	Antoine (Antonio)			sugar	Flemish/Dutch	1636	1647	1647							Kieckens, 1993, p. 57. 	"ASL, dogana 4. c. 53-54 (4 februari 1648).
+ASL, 2603-2, 575r."									
+fiamminghi	087	Gontier	Antonio (cousin)			sugar	Flemish/Dutch	1636									Kieckens, 1993, p. 57.	ASL, dogana 4. c. 53-54 (4 februari 1648).									
+fiamminghi	088	Gontier (Gautier)	Paris			sugar	Flemish/Dutch	1626	1635								"Brege, 2021, p. 98.
+Engels, 1993, p. 30. 
+Engels, 1997, p. 181. "	"ASL, 2603-1, 209r.
+ASL, Dogana 2, c179."									
+fiamminghi	089	Goor, van	Gisbertus (Gisberto)			merchant	Flemish/Dutch	1655	1656	1655							"Hoogewerff, 1927, p.173. 
+Kieckens, 1993, p. 58."										
+fiamminghi	090	Grebert	Claudio				Flemish/Dutch	1656		1656																	
+fiamminghi	091	Grol, van	Johannes Laurensz.				Dutch	1623	1623								Engels, 1997, p. 158.										
+fiamminghi	092	Hamblock	Hendrik			merchant	Flemish/Dutch	1662	1668					1668			Hoogewerff, 1927, p. 173.										
+fiamminghi	093	Haze, de (Dehaze)	Henbdrick (Henrico, Enrico)			merchant	Dutch	1646		1646							Van Gelder, 2009, p. 155.										
+fiamminghi	094	Heirmans (Hierman)	Daniel (Daniele)				Flemish/Dutch	1681		1681							Castignoli, 1979, p. 174.										
+fiamminghi	095	Hendricks (Arrigo)	David (Davide)			cobbler	Flemish/Dutch	1615	1635							Anna di David possibly was his wife.	Engels, 1997, p. 134.										
+fiamminghi	096	Hendriks (Arrigo)	Gerard (Gherardi)				Flemish/Dutch	1650	1666	1655							"Kieckens, 1993, p. 58. 
+Kieckens 2024, p128.
+Vivoli, 1842, IV, p. 72, 517. "										
+fiamminghi	097	Hespel	Giovanni Girolamo				Flemish/Dutch	1667		1667																	
+fiamminghi	098	Heukelom, van (van Henchelom)	Franciscus (Francesco)			consul	Dutch	1667	1677	1667							"Hoogewerff, 1927, p. 171.
+Schutte, 1976, p. 447;"										
+fiamminghi	099	Hont, d'	Reinier				Flemish/Dutch	1659	1668	1659							"Kieckens 1993 p77;"	ASL, catasto 208. c. 690.									
+fiamminghi	100	Houbroken, van	 Hector (Ettore)			painter	Flemish, Antwerp	1674	1722			1624	Antwerp	1722	Livorno (Chiesa di Stimmate)	Was married to Giuseppa Maffei from Messina, where they both had lived for some time. They had at least three children.	https://edu.nl/6cvbx										
+fiamminghi	101	Houbroken, van	Maria		F		Flemish, (Messina)	1674	1745			1653	Messina	1745	Livorno (Chiese di Miserecordia)	Daughter of Hector van Houbroken	https://edu.nl/6cvbx										
+fiamminghi	102	Houbroken, van	Niccolò				Flemish, (Messina)	1674	1724			1660	Messina	1724	Livorno (chiese di Stimmate)	Son of Hector van Houbroken	https://edu.nl/6cvbx										
+fiamminghi	103	Houbroken, van	Placido				Flemish, (Messina)	1674	1684			1670	Messina	1684	Livorno (Chiesa della Madonna)	Son of Hector van Houbroken	https://edu.nl/6cvbx	ADL, morti 6, 312v.									
+fiamminghi	104	Houck (Hoch) 	Pieter (Pietro)	di Pietro		captain	Flemish/Dutch	1623	1645		Catholic					Married Anna Lucretia di Francesco Bongianni di Livorno.	"Kieckens 1993 p74, 80;"	ADL, libro dei matrimoni 2, 20r									
+fiamminghi	105	Hout, van der	Daniel 	Hermansz.		merchant	Flemish/Dutch	1684	1689			1672		1738	Livorno	Married to Eva Calckberner	Hoogewerff 1927, p173										
+fiamminghi	106	Hout, van der	Andreas				Dutch, Amsterdam					1678	Amsterdam	1744	Livorno		Hoogewerff 1927, p181										
+fiamminghi	107	Houten, van	Stefanus (Stefano)			merchant	Dutch, Amsterdam	1689				1665	Amsterdam	1726	Livorno		Hoogewerff 1927, p173										
+fiamminghi	108	Huygens	Johannes Anthonius (Giovanni Antonio)			merchant	Flemish/Dutch	1677	1679	1677							Hoogewerff 1927, p173										
+fiamminghi	109	Jansen	Joris			merchant	Dutch	1611	1621			c. 1575	Antwerpen				"Engels 1997, p155; Heeringa 1910, p94; Engels 2024, p37;"										
+fiamminghi	110	Kenckrinck	Theodoor (Theodor)				Flemish/Dutch	1677		1677																	
+fiamminghi	111	Keyzer, de	Wouter			merchant	Flemish/Dutch	1630									"Engels 1997, p78; Engels 1993, p30;"										
+fiamminghi	112	Koe, de (la Vaccha) 	Hendrick (Arrigo)	di Niccolaio, Nicolaasz. 		goldsmith	Flemish/Dutch	1615	1635		Catholic					Married Diamante di Battista Bottasi di Livorno.	Engels 1997, p134	"ADL, libro dei matrimoni 1627-1640 47r;"									
+fiamminghi	113	Lamberts	Bernard (Bernardo)			cobbler	Dutch, Groningen	1615	1635		Catholic		Groningen			Married Donna Caterina Serrida da Monferato.	Engels 1997, p134	"ADL, matrimoni 1611-1627 127v; ASF, Società Mercantile Olandese, 36 Debitori e Creditori 1620, c97; 43 Debitori e Creditori 1629-1630, c35 and c42; 44 Debitori e Creditori 1623-1625, c305."									
+fiamminghi	114	Lemmens	Johannes (Giovanni)			merchant	Flemish	1600									"Engels 1997, p135, p140; Engels 1993, p29;"										
+fiamminghi	115	Lespierre, de	Stephano				Flemish/Dutch	1656		1656																	
+fiamminghi	116	Leven, van der	Daniello	di Antonio			Flemish/Dutch	1692	1714									ASL, 1684 Catalogo dei cittadini livornesi 134r.									
+fiamminghi	117	Leven, van der	Francesco				Flemish/Dutch	1692	1696									ASL, 1684 Catalogo dei cittadini livornesi 134r.									
+fiamminghi	118	Leven, van der	Francesco	di Antonio			Flemish/Dutch	1692	1696									ASL, 1684 Catalogo dei cittadini 134r									
+fiamminghi	119	Leven, van der (Vanderleven, Lega, van der)	Antonius (Antonio)				Flemish/Dutch	1664			Catholic				Livorno	Had a 1 year old child who was burried on 4 July 1664.	Kieckens, 1993, p67, 69.	"ASL, Catasto 208. c. 787.
+ASL, Catasto 210. c. 1372.
+ADL, libro dei morti 5, c107."									
+fiamminghi	120	Lodestein	Gijsbert				Flemish/Dutch	1630									"Engels 1993, p30;"										
+fiamminghi	121	Lokeren, van (de Loeckere, di Lockern)	Cornelis (Cornelio)			merchant	Dutch	1655	1656	1656							"Hoogewerff 1927, p171; Kieckens 1993, p80; Vivoli 1842 p72"										
+fiamminghi	122	Luninchuysen	Giovanni			merchant	Dutch	1666									Schutte, 1976, p. 447.										
+fiamminghi	123	Lus	Jacob				Dutch	1618-1649										"ASL, 74. L'archivio Estimi comunali (1558-1831) di Livorno, 136recto; "									
+fiamminghi	124	Lus 	Abraham			merchant	Dutch	1603	1620								"Engels 1997, p136; Brulez, 1965, index;"										
+fiamminghi	125	Lus (Luz)	Isaac (Isach, Isack Antonio)			merchant	Dutch	1595	1620																		
+fiamminghi	126	Maijor, de	Girolamo di Girolamo				Dutch		1663		Catholic			1663	Livorno		"Kieckens, 1993 p. 70;"	ADL, libro dei morti 5. c. 82									
+fiamminghi	127	Maire, le	Isaac			merchant	Dutch	1600	1614		Protestant					Probably not permanent in Livorno.	Engels 1997, p130	ASL, 2602 Atti civili-suppliche 1595-1629, 606rv.									
+fiamminghi	128	Maire, le	David			merchant	Dutch	1604	1618		Protestant		Antwerp	1618	Livorno		"Engels 1997, p130, 138; Calafat 2018, p752; Engels 1993, p28;"	"ASL, 3076processo contro il Console d’Olanda, XV.
+ADL, libro di morti 1, c62."									
+fiamminghi	129	Maire, le	Paolo Antonio di David				Dutch, (Livorno)	1612			Protestant	1612	Livorno				"Engeles 1997, p142;"	"ASL, 2602-2 428r; Battesimi 3, 28r."									
+fiamminghi	130	Maire, le	Simon 			merchant	Dutch, Middelburg	1617	1634	c1628	Protestant		Middelburg	1634	Livorno	"Came to Livorno with his first wife ""Maria from Palermo"". Iin 1626 he married Maria, daughter of Orazio Canneri from Livorno."	"Engels 1997, p141; Panessa 2002, p39"	"Atti civili- suppliche 1595-1629 444r; ASL, catasto 201. c. 367"									
+fiamminghi	131	Maire, le	Salomon				Dutch	1618	1625		Protestant		Antwerp	1625	Livorno		"Engels 1993, p28, 141;"	ASL, 2602-2 430r									
+fiamminghi	132	Malaperts (Malpert)	Johannes (Giovanni)				Flemish/Dutch	1666	1667	1667							Vivoli 1842, IV, p72										
+fiamminghi	133	Mayssart	Pieter (Pietro)				Flemish/Dutch	1666									Vivoli 1842, IV, p72										
+fiamminghi	134	Mazzolen	Jacob (Giacomo)				Flemish/Dutch	1676		1676																	
+fiamminghi	135	Mellino	Eduard (Iduardo)				Flemish/Dutch	1623								Married Elia di Manso francese on 26 July 1623		ADL, libro dei matrimoni 1, 103r.									
+fiamminghi	136	Meltra	Anne-Maria		F		Flemish/Dutch										Kieckens, 1993, p. 35.										
+fiamminghi	137	Meyer (Maier)	Cornelis (Cornelio)			engineer	Dutch, Amsterdam	1680	1691			1629	Amsterdam	1701	Rome		"Vivoli 1842, IV, p. 15 ev; 
+Turco 2016, p115;"										
+fiamminghi	138	Michelsen (de Michelo)	Michel				Flemish/Dutch	1650									"Pessina en Papini, 2024, p128; Kieckens 1993, p58, 72; "	ASL,  governatore ed auditore 155. c. 1006 (21 april 1653). Zie bijlage III.									
+fiamminghi	139	Mijle (Mille)	Jacob (Jacopo)	di Egidio		merchant	Flemish, Mons	1621	1634	1628			Mons	1634	Livorno	Married to a woman named Pellegrina in 1634.	"Engels 1997, p133, 142; Kieckens 1993, p74"	"ADL, Matrimoni 2, 106v.
+ADL, libro di morti  2, c165."									
+fiamminghi	140	Molives	Johannes (Giovanni)				Flemish/Dutch	1663		1663																	
+fiamminghi	141	Molives (Molines, Moilives)	Cornelis (Giacomo?)			merchant	Flemish/Dutch	1648	1689	1648 en 1676							"Hoogewerff 1927, p173; Vivoli 1842, p72"	Dogana 3, 210rv									
+fiamminghi	142	Muissens	Nichols				Flemish/Dutch	1649		1649																	
+fiamminghi	143	Muisson	Daniel 	Jansz.		entrepreneur	Flemish, Antwerp	1625					Antwerp	1632	Livorno		"Engels 1993, p26; Engels 1997, p135"										
+fiamminghi	144	Muisson	broer van Daniel Jansz 1				Flemish, Antwerp							1617	Livorno		"Engels 1997, p142;"										
+fiamminghi	145	Muisson (Moisson, Muysson)	Jan (Giovanni)			merchant	Flemish, Antwerp	1628	1646	1628			Antwerp				"Engels 1997, p133, 142; Kieckens 1993 p57;"	ASL, 2603-2, 1363r, 1365r.									
+fiamminghi	146	Munnickhoff (Munnichoff, Munichoff)	Nicolaas (Nicolo, Nicolaus)				Dutch, Amsterdam	1677	1699	1677			Amsterdam	1699	Livorno		Hoogewerff 1927, p171										
+fiamminghi	147	Muyens	Arnoldus				Flemish/Dutch	1676		1676																	
+fiamminghi	148	Muyens	Bernardo				Flemish/Dutch	1682		1682																	
+fiamminghi	149	Muyssart	Pieter (Pietro)			merchant	Flemish/Dutch	1667		1667							Hoogewerff 1927, p173										
+fiamminghi	150	Neck, van (Vannech, Vannaecher, Vanacher)	Johannes (Giovanni, Jan)			merchant, innkeeper	Dutch	1637	1655	1649						Son of Jacob van Neck jr. Married to Lucretia, figlia di MichelAngelo Barberi.	"Scholten 1993,p205; Hoogewerff 1927, p161"	"ADL, libro dei matrimoni 1627-1640 148v; 135 Lettere e negozi della comunità (dal 1641 al 1650) 1740v; "									
+fiamminghi	151	Neck, van (Vannech)	Cornelis (Cornelio)			merchant	Dutch	1642	1659	1642						Son of Jacob van Neck jr. 	"Hoogewerff 1927, p161; Scholten 1993,p205;"										
+fiamminghi	152	Neck, van (Vannech) il giovane	Jacob jr.			merchant	Dutch, Enkhuizen	1622	1649	1628			Enkhuizen?			Married to Donna Maria Marianne.	"Engels 1997, p133, 143; Pessina en Papini 2024,p382; Scholten 1993, p205;Engels 1993, p29;"	"ADL, matrimoni 1611-1627 101v; 30 (was 74) Decima Estimo nuovo 317r;"									
+fiamminghi	153	Neijs	Hendrik			merchant	Flemish/Dutch	1647									Hoogewerff 1927, p161										
+fiamminghi	154	Neijs (Nijssen)	Isaäk (Isach, Giovanni)			merchant	Flemish/Dutch	1647		1647							Hoogewerff 1927, p161	ASL, 3* (was 4) Affari generali e particolari 1647- 1653 di Dogana Granducale, 249r.									
+fiamminghi	155	Nizza - Cappelen, van der	Maria		F		Dutch	1646								Daughter of  van Giacomo en Benedetta van der Cappelen, married to Domenico Nizza.		204 Arroti di decime c366									
+fiamminghi	156	Noirot	Johannes (Giorgio)			merchant	Flemish/Dutch	1628		1628							"Engels 1997, p133; Engels 1993, p29;"										
+fiamminghi	157	Nuyts	Giovanni Elia				Flemish/Dutch	1688		1688																	
+fiamminghi	158	Oran, d'	Raimondo				Dutch	1618-1649										ASL, 74. L'archivio Estimi comunali (1558-1831) di Livorno, 136recto									
+fiamminghi	159																										
+fiamminghi	160	Passavant	Isaacq				Flemish/Dutch	1678		1678																	
+fiamminghi	161	Pietro	Pietro Andrea /Pier-Andrea			merchant	Flemish/Dutch	1597			Catholic					Married to Anna Maria Meltra.	"Brulez, 1965, p. 264. 
+Kieckens, 1993, p. 35."										
+fiamminghi	162	Putmans	Francesco			merchant	Flemish							1634	Livorno		"Engels 1997, p181, 218; Engels 1993, p30;"	ADL, morti 2, c147.									
+fiamminghi	163	Quichelberg	Jacob			diamondgrinder	Flemish/Dutch	1615	1635								Engels 1997, p134										
+fiamminghi	164	Rendtroff	Herman				Flemish/Dutch	1673		1673																	
+fiamminghi	165	Reyniers	Gilles			consul missus	Flemish/Dutch	1628	1640							Brother of Theodoor Reyniers.	"Agterhuis, 2013, p. 35.
+Hoogewerff 1927, p. 161. 
+Schutte, 1976, p. 446."	ASL, 2603-1, 203r.									
+fiamminghi	166	Reyniers (Reiniers, Reniers)	Dirk				Flemish/Dutch	1622									Calafat, 2018, p. 752.										
+fiamminghi	167	Reyniers (Rinieri, Reinieri, Renieri)	Theo (Teodoro, Theodor)			merchant, consul	Flemish/Dutch	1608	1633	1622				1634	Livorno		"Agterhuis, 2013, p. 35.
+Engels, 1997, p. 137, 218. 
+"	"Schutte, 1976, 446; ASL,  Governatore Auditore, Atti Civili, 87, c. 2021, 17 novembre 1626; 2602 Atti civili- suppliche 1595-1629 557r; morti 2, 149r"									
+fiamminghi	168	Riccardi	Andrea				Flemish/Dutch	1682		1682																	
+fiamminghi	169	Roseau Vallone	Jacob			painter	Flemish/Dutch	1615	1635								Engels 1997, p134										
+fiamminghi	170	Rubens	Julius (Giulio, Gilio)			merchant	Flemish/Dutch	1646	1654	1646						Witness to the marriage of Giovanni van der Cammen op 19/01/1654	Pessina en Papini, 2024, p126	"ADL, matrimoni 1640-1656 243r; Dogana 3 219rv+1"									
+fiamminghi	171	Rubens	Adriano			shopowner 	Flemish/Dutch	1653									"Kieckens 1993 p57; "	"ASL. catasto 200. c. 85; ASL. catasto 204. c. 431.; ASL,  governatore ed auditore 155. c. 1006 (21 april 1653). Zie bijlage III Kieckens;"									
+fiamminghi	172	Rubens (Rubbens)	Jan (Giovanni)			merchant	Flemish/Dutch	1650		1642							"Pessina en Papini, 2024, p126; Kieckens 1993, p57, p72;"	ASL, governatore ed auditore 155. c. 1006 (21 april 1653). Zie bijlage III Kieckens.									
+fiamminghi	173	Ruellia	Anna		F		Flemish/Dutch		1624							Married to Willem Bontekoe.	"Vivoli 1842, IV, p149; Engels 1997, 175;"										
+fiamminghi	174	Rusca (Rusco)	Ercole			broker, captain	Flemish, Antwerp	1611					Antwerp			"married multiple times betwen 1611 and 1627 to Italian women; "	"Engels 1997, p134, 146;"	"ASD, Matrimoni 1, 11v; Battesimi 5, 279v; boeken vd Broeck, huizen"									
+fiamminghi	175	Rutz	Jan 	Jacobsz.		captain	Flemish	1610	1620								"Engels 1993, p31, 146;"										
+fiamminghi	176	Sabé	Johannes (Giovanni)			merchant	Flemish/Dutch	1656	1684	1656							"Hoogewerff 1927, p173; Kieckens 1993, p80; Vivoli 1842 p72"										
+fiamminghi	177	Sautijn (Santin)	Giovanni			merchant	Dutch	1649		1649							"Pessina en Papini 2024, p383;"	ASL,  Governatore Auditore, Atti Civili, 2187, cc. 234-242									
+fiamminghi	178	Sautijn (Santin)	Gilles			merchant	Dutch	1670								Son of Samuel Sautijn.	Scholten 1993 p206										
+fiamminghi	179	Sautijn (Santin)	Willem			merchant	Dutch	1670								Son of Samuel Sautijn.	Scholten 1993 p206										
+fiamminghi	180	Sautijn (Santin)	Samuel			merchant	Dutch		1670					1670													
+fiamminghi	181	Savareys (Savary)	Matthijs (Mattheus, Matteo)				Dutch, Amsterdam	1677	1700	1677		1645	Amsterdam	1700	Livorno		Hoogewerff 1927, p171										
+fiamminghi	182	Schendel, van	Emanuel			merchant	Flemish/Dutch	1657	1679	1657							Hoogewerff 1927, p173										
+fiamminghi	183	Scheynis, van (van Scheins)	Joahnnes (Giovanni)				Flemish/Dutch	1645		1645																	
+fiamminghi	184	Schroveringh (Schrottering)	Hendrik (Arrigo)			merchant	Flemish/Dutch	1673	1673	1673							Hoogewerff 1927, p173										
+fiamminghi	185	Schuijt	Nicolaas				Dutch	1620									"Engels 1997, p144;"	Battesimi 5, 9-10-1633 (mentioned as godfather_									
+fiamminghi	186	Schuijt (Schuyt)	Albert (Elbert)	Gijsbertsz.		merchant	Dutch	1628	1631	c1628				1632	Amsterdam		"Engels 1997, p133; Kieckens 1993, p57"										
+fiamminghi	187	Schuijt (Schuyt)	Pieter (Pietro)			merchant	Dutch	1642	1650	1642				1650	Livorno	Probably a brother of Albert Schuit. 	"Hoogewerff 1927, p161; Pessina en Papini 2024, 379;"	ASL,  Governatore Auditore, Atti civili, 149, cc. 115-136									
+fiamminghi	188	Scotte	Simone				Flemish/Dutch	1669		1669																	
+fiamminghi	189	Scotte	Giacomo				Flemish/Dutch	1673		1673																	
+fiamminghi	190	Scumickhuysenn	Giovanni				Flemish/Dutch	1666									Vivoli 1842, IV, p72										
+fiamminghi	191	Smit	Anna Teodora		F		Flemish	1646								Daughter of Lambert Smit	Tosco, 2024, p. 52.										
+fiamminghi	192	Smit (Smidt)	Lambert			merchant, consul	Flemish, Antwerpen	1621	1651	1628	Catholic	1576	Antwerpen	1651	Livorno		"Calafat 2022, p539; Engels 1997, p133;  Pessina, 2024, p52; Kieckens 1993 p57; Heeringa 1910, p111; Scholten 1993, p206; Agterhuis 2013, p35; Calafat 2022 p539; Scholten 1993, p.206"	"ADL, libro_dei_morti_4, 33r; Schutte, 1976, 447; NA Res. 28 Mei 1625."									
+fiamminghi	193	Sprangh, van der	Nicolaas (Nicolo)			merchant	Flemish/Dutch	1663	1665	1663							Hoogewerff 1927, p173										
+fiamminghi	194	Spron	Giovanni 	di Benjamin			Flemish, Antwerp	1614					Antwerp			Possiblly orinally from England, but moved to Antwerp.	"Engels 1997 p140;"										
+fiamminghi	195	Spron (Sproni, Sporon, Spron, Speron)	Benjamin	di Benjamin		agent, factor, broker	Flemish, Antwerp	1611	1641	1622	Catholic	1584	Antwerpen	1641	Livorno	Possiblly orinally from England, but moved to Antwerp.	"Engels 1997, p133, 140; Pessina en Papini, 2024, p128; kieckens 1993, p101; Kieckens 1993, p76; Engels 1993, p26."	"ASL, 2602-2, 397r. 
+ADL, Battesimi 3, 25r. 
+ADL, Morti 2, c378.
+ASL, 2603-2, 419r."									
+fiamminghi	196	Spron (Sproni)	Jacob (giacomo, Jacopo)	di Benjamin			Flemish	1625	1664	1657	Catholic	1624				Son of Benjamin Spron. Married a woman from Corsica in 1655.	"Pessina en Papini, 2024, p128; Kieckens 1993, p69, 76;"	"ADL, libro dei morti 5, 103; 1684 Catalogo dei cittadini livornesi 64v;"									
+fiamminghi	197	Spron (Sproni)	Anna Maria		F		Flemish	1629	1629					1629	Livorno (Chiesa della Madonna)	daughter of Benjamin Spron.		ADL, libro di morti 2, c22.									
+fiamminghi	198	Spron (Sproni)	Maddalena		F		Flemish	1632	1632					1632	Livorno (Chiesa della Madonna)	daughter of Benjamin Spron.		ADL, libro di morti 2, c114.									
+fiamminghi	199	Spron (Sproni)	Giorgia		F		Flemish	1634	1634			1632	Livorno	1634	Livorno (Chiesa della Madonna)	daughter of Benjamin Spron. The death records mentions she was two years old.		ADL, libro di morti 2, c162.									
+fiamminghi	200	Spron (Sproni)	Beniamino	di Jacopo			Flemish	1664	1723								Kieckens 1993, p76	"ASL, catasto 209. c. 1177; 1684 Catalogo dei cittadini livornesi 103r+v;"									
+fiamminghi	201	Spron (Sproni)	Jacopo	di Francesco di Benjamino			Flemish	1692	1726									"1684 Catalogo dei cittadini livornesi 133v;"									
+fiamminghi	202	Spron (Sproni)	Ferdinanda				Flemish										Kieckens 2024, p129										
+fiamminghi	203	Spron (Sproni)	Francesco	di Benjamino			Flemish										Kieckens 2024, p129										
+fiamminghi	204	Stamblock	Enrico				Flemish/Dutch	1666									Vivoli 1842, IV, p72										
+fiamminghi	205	Steen	Gerard	Jansz.		captain	Dutch										"Engels 1993, p31;"										
+fiamminghi	206	Steen	Jan			captain	Dutch										"Engels 1993, p31;"										
+fiamminghi	207	Steen, van de (van de Stein, Vandestein, Vanadestein, Vandesten) 	Niccolò	di Giovanni (d'Ebaldo?)		captain of harbor	Flemish, Antwerp	1616	1646		Catholic	1577	Antwerpen	1642	Livorno	 Married to Donna Catharina who was probably Italian. Had 6 children.	"Kieckens 1993 p64; Engels 1997, p134, 146; Vivoli 1842 p457"	"ASL, catasto 202. c. 641.; 201 c 311; 204. c. 326-327 en 420; 1684 Catalogo dei cittadini livornesi 34v; ADL, libro dei morti 3. 417r; Battesimi 5 269v; "									
+fiamminghi	208	Steur	Johannes (Giovanni)			merchant	Flemish/Dutch	1622	1630	1622						From 1617 to 1630 captured by the Turks, afterwards became captain of the harbour - 'bocca di porto'. The name of his wife was  Catherina.	"Engels 1997, p133, 144; Engels 1993, p30;"										
+fiamminghi	209	Straten van der (Vanderstrotten, Vanderstraten)	Pieter (Pierre, Pietro)			consul missus	Dutch, Amsterdam	1643	1672	1644			Amsterdam			Son of Francesco van der Straten	"Biagi, 1977, p. 361.
+Hoogewerff, 1927, p. 161.
+Israel, 1986, p. 106.
+Schutte, 1976, p. 446."	"ASL, 135 Lettere e negozi della comunit, 1743r.
+ASL, 2603-2, 1477r."									
+fiamminghi	210	Straten, van der	Jan (Giovanni)				Dutch	1613								Most likley the van der Straten family came from Antwerp but moved to Amsterdam in the late sixteenth century.	"Engels 1997, p166;"	Battesimi 3, 68v									
+fiamminghi	211	Straten, van der	Sara		F		Dutch	1628								Daughter of Jan van der Straten. Married to Pieter Trip in Amsterdam. 	"Engels 1997, p166;"										
+fiamminghi	212	Straten, van der	François (Francisco, Francesco)			merchant, consul	Dutch, Amsterdam	1630	1642	1642			Amsterdam	1643	Livorno		"Pessina en Papini, 2024, p53, 380; Hoogewerff 1927, p161"	"Schutte, 1976, 446;"									
+fiamminghi	213	Straten, van der (Vanderstraten)	Willem (Guilelmo)			merchant	Dutch, Amsterdam	1630	1649	1643			Amsterdam				"Pessina en Papini, 2024, p53, 380; Hoogewerff 1927, p161"	"ASL, 135 Lettere e negozi della comunità (dal 1641 al 1650) 1743r;"									
+fiamminghi	214	Temback	Andreas				Flemish/Dutch	1677		1677																	
+fiamminghi	215	Tensini	Giovanni Battista				Flemish/Dutch	1645		1645																	
+fiamminghi	216	Timmerman	Regina		F	barmaid	Dutch, Amsterdam	1656									Struys, 1676, p72										
+fiamminghi	217	Uchelen, van	Hendrik (Henrico)			merchant	Flemish/Dutch	1677	1679	1677							Hoogewerff 1927, p173										
+fiamminghi	218	Uchelen, van	Pietro				Flemish/Dutch	1683		1683																	
+fiamminghi	219	Undrill	Giovanni				Flemish	1639	1647		Catholic			<1648		Son of George Undrill, had multiple public functions in Livorno. Was married to a woman named Francesca di Marcantonio Mazzante.	Kieckens, 1993, p. 76.	ASL, 1684 Catalogo dei cittadini livornesi, 50v.									
+fiamminghi	220	Undrill	Isabella		F		Flemish		1648		Catholic	1630		1648	Livorno	daughter of George Undrill, her death record states she was 18 years old.	Kieckens, 1993, p. 76.	ADL, libro dei morti 3. c. 693									
+fiamminghi	221	Undrill	Susanna		F		Flemish		1648		Catholic	1626		1648	Livorno (Chiesa S.S. Monti)	daughter of George Undrill, married to Guilio Batta Lombardini. Her death record states she was 22 years old.	Kieckens, 1993, p. 76.	ADL, libro dei morti 3. c684.									
+fiamminghi	222	Undrill (Underhil) [di Tommaso]	George (Giorgio)				Flemish / English	1613	1642		Catholic			1642	Livorno	Possibly originally from England.	"Kieckens, 1993, p. 76.
+Kieckens, 2024, p. 128."	"ADL, morti 3, 412v. 
+ADL, matrimoni 1, 27r.
+ASL, 2602 Atti civili- suppliche, 546r."									
+fiamminghi	223	Unt	Tomasso				Flemish/Dutch Inglese	1603	1620					< 1642		Married to Elisabetta Unt.	"Kieckens 1993 p69;"	ASL, 53 Atti civili del Governatore Priore Antonio Martelli 1609-1610, 461r									
+fiamminghi	224	Unt	Margherita		F		Flemish/Dutch	1614								Daughter of Tomasso Unt. Married to Giorgio di Tommaso Underhil.		ADL, libro dei matrimoni 1, 27r.									
+fiamminghi	225	Unt	Elisabetta		F		Flemish/Dutch		1642		Catholic			1642	Livorno (Chiesa S.S. Monti)	Widow of Tomasso Unt.	"Kieckens 1993 p69;"	ADL, libro dei morti 3. 411r									
+fiamminghi	226	Ursi	Gaspar			merchant	Flemish	1605									Brulez, 1965, p558 (Livorno, item 1727)										
+fiamminghi	227	Valckenburgh, van	Jan (Giovanni)			merchant	Flemish/Dutch	1646	1654	1646						Married Caterina Mencotti from Rome.	"Hoogewerff 1927, p161; Kieckens 1993, p70"	"ADL, Morti 4, 33r.
+ASL, catasto 206. c. 216."									
+fiamminghi	228	Valcks (Falchi, Valsen, Valsex)	Jacob (Jacopo, Giacomo)			merchant	Flemish	1628		1628							"Calafat 2022, p539; Engels 1997, p133"										
+fiamminghi	229	Vandebusch	Teodoro di Teodoro				Flemish				Catholic	1627		1661	Livorno, Chiesa della Madonna		"Kieckens 1993 p70;"	ADL, LIbri di Morti 4, c. 186v (1 augustus 1661).									
+fiamminghi	230	Vanzs	Erich			merchant	Dutch	1606									Bomboni, 2023, p69										
+fiamminghi	231	Vaqueman	Giacomo				Flemish/Dutch	1642		1642																	
+fiamminghi	232	Velden, van	Jacob			merchant	Flemish/Dutch	1689									Hoogewerff 1927, p173										
+fiamminghi	233	Veldensteyn, van	Samuel				Flemish/Dutch	1678		1678																	
+fiamminghi	234	Velthuyzen, van (Wan Welthyssen, Vanveltuijsem)	Gabriël			merchant	Dutch	1666		1666							Hoogewerff 1927, p171	ASL, 2608, 423r.									
+fiamminghi	235	Velz	Johannes Filips (Giacomo)	di Filippo		merchant	Flemish/Dutch	1661	1684	1661 en 1663							Hoogewerff 1927, p173										
+fiamminghi	236	Vogelaer, de	Marcus			merchant	Dutch	1606									Bodoni 2023, p69										
+fiamminghi	237	Watering (Watrin)	Jean (Giovanni)				Flemish/Dutch	1647								Nephew and heir of Lambert Constant. 	"Kieckens 1993, p43; Dinelli 2006, p.119"	ASL, catasto 85 - giustificazione - c. 200									
+fiamminghi	238	Weert, de (van Weert)	Wilhelmus (Willem, Guglielmo, Wilhelm)				Flemish/Dutch	1666	1698	1666				1698	Livorno	Son of Rogier van Weert.	"Hoogewerff 1927, p170; Vivoli 1842 p72; Pessina en Papini 2024, 384;"	ASL, 2608, 423r.									
+fiamminghi	239	Weert, van (Vanverten)	Rogier (Rugieri, Guglielmo)				Flemish/Dutch	1650	1666	1655							"Hoogewerff 1927, p170; Vivoli 1842 p72; Pessina en Papini 2024, 384, 385;"	ASL,  Governatore Auditore, Atti Civili, 184, c. 164, 13 febbraio 1658									
+fiamminghi	240	Wibrants	Joachim			clerk	Dutch	1627	1634								Engels 1997, p174, 1778										
+fiamminghi	242	Wijngaard (della Vigna, delle Vigne, van der Wignaert)	Jan Jr. (Giovanni)			merchant	Flemish/Dutch	1628		1628							"Calafat 2022, p539; Engels 1997, p133"										
+fiamminghi	243	Willem, de	Paulus				Dutch	1600	1610								"Engels 1993, p. 140;"										
+fiamminghi	244	Winckel, van	Jan (Giovanni)			merchant	Dutch, Amsterdam	1655	1689	1655	Lutheran	1629	Amsterdam	1707	Livorno		"Hoogewerff 1927, p173; Kieckens; Pessina en Papini, p384;"	 ASL,  Governatore Auditore, Atti Civili, 184, c. 164, 13 febbraio 1658. ASL, 2608, 423r.									
+fiamminghi	245	Winckel, van	Cornelis (Cornelio)	di Giovanni			Dutch				Lutheran changed to Roman Catholic	1627		1667	Livorno			ADL, libro dei morti 5. c. 236.									
+fiamminghi	246	Wingaert, van de	Clara		F		Dutch	1622	1645			1603	Antwerpen			"Married to Benjamin Spron; Portrait in biblioteca Labronica, on which it is stated she was 25 years old in 1628."	"Engels, 1997, p. 133. 
+Frattarelli Fischer, 2001, p. 31.
+Kieckens, 2024, p. 128."	ASL, 2603-2, 419r.									
+fiamminghi	247	Wit, de	Giorgio	di Matteo			Flemish/Dutch	1612										ADL, 1684 Catalogo dei cittadini livornesi, 28r.									
+fiamminghi	248	Wit, de	Agostino	di Antonio			Dutch, Amsterdam	1646					Amsterdam				Kieckens, 1993, p. 67.	ASL, catasto 207. c. 421									
+fiamminghi	249	Zael	Bartholomeus			captain	Dutch										"Engels, 1993, p. 31. 
+Engels, 1997, p. 175."										
+other	250	Bonade (Bonato, Bonedt, Bonat, Bonnede)	Matteo			consul electus, soldier, merchant	Austrian	1597	1631	1622	Catholic			1631	Livorno	Consul for various countries, including United Provinces. His wife was called Filippa di Andrea Confortini di Santa Luce.	"Bomboni, 2024, p. 81. 
+Engels, 1997, p. 134.
+Kieckens, 1993, p. 57. 
+Pessina and Papini, 2024, p. 33. "	"ASL, comunità 1684. 13v. 
+ADL, Battesimi 3, 13r."									
+other	249	Cammen, van der	Jan			merchant	German	1637	1667	1667	Catholic						"Pessina en Papini, 2024, p. 129; Kieckens 1993, p. 74;"	"ADL matrimoni 1640-1656 243r;"									
+other	250	Cammen, van der	Nicolaas			merchant	German	1649			Catholic							135 Lettere e negozi della comunità 1743r									
+other	251	Wierts (Wiert, Vierz)	George (Giorgio)			merchant, consul electus	Austrian	1622	1658	1622	Catholic			1658	Livorno		"Biagi, 1977, p. 361;
+Hoogewerf, 1927, p. 158.
+"	"ASL, 3076 processo contro il Console d’Olanda, XI, XV & XXI;"									
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
