@@ -1,7 +1,10 @@
+# Prosopography Dutch Migrants in Livorno 1590-1690
+
 The file 'prosopography Livorno 1590-1690.txt' is part of the research done for the RMA Thesis 'Communal Identity of Dutch Migrants
 in Seventeenth-century Livorno' at Utrecht University, 2025.
 
-Abstract
+# Abstract
+
 This thesis investigates the presence and identity of migrants from the Low Countries in
 seventeenth-century Livorno, challenging the prevailing scholarly focus on merchants and
 their economic networks. Drawing on church registers and other archival sources, the study
