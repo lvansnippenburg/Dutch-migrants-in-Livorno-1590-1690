@@ -10,12 +10,14 @@ seventeenth-century Livorno, challenging the prevailing scholarly focus on merch
 their economic networks. Drawing on church registers and other archival sources, the study
 highlights the presence of non-merchant migrants, including women, artisans, and their
 families, within the city’s diverse society.
+
 The research situates itself within recent historiographical debates on migration and
 identity, referencing key works by Francesca Trivellato, Stefano Villani, Guillaume Calafat,
 and Marie-Christine Engels, who have examined Livorno’s foreign merchant communities.
 The thesis critiques the dominant narrative that privileges male merchants and their nazioni
 by foregrounding the experiences of women and non-merchant migrants, whose
 contributions have been marginalised in existing scholarship.
+
 Methodologically, the study draws on theoretical frameworks from Benedict
 Anderson and Eric Hobsbawm, focusing on the concepts of imagined communities and
 invented traditions. The thesis argues that migrant identity in Livorno was shaped not only
